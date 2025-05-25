@@ -36,13 +36,6 @@ This project presents an interactive Tableau dashboard built using the Superstor
 
 ---
 
-## 📁 Files
-
-- `Superstore_Sales_Dashboard.twbx` – Tableau packaged workbook.
-- `Screenshot 2025-05-25 131559.png` – Static preview of the dashboard.
-
----
-
 ## 🚀 How to Use
 
 1. Download or clone the repository.
