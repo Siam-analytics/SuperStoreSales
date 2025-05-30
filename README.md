@@ -2,7 +2,7 @@
 
 This project presents an interactive Tableau dashboard built using the Superstore dataset. It offers a dynamic and insightful view into key performance indicators (KPIs) such as Sales, Orders, and Customers over time, with flexible parameter-driven controls.
 
-![Dashboard Preview](Screenshot%202025-05-25%20131559.png)
+![Dashboard Preview](https://github.com/Siam-analytics/SuperStoreSales/blob/main/Screenshot%202025-05-30%20200255.png)
 
 ## 🔧 Features
 
@@ -39,7 +39,7 @@ This project presents an interactive Tableau dashboard built using the Superstor
 ## 🚀 How to Use
 
 1. Download or clone the repository.
-2. Open the `.twbx` file in Tableau Desktop.
+2. Open the `.twb` file in Tableau Desktop.
 3. Use parameter controls to explore:
    - Different years
    - Top N categories
